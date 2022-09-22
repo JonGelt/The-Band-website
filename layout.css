@@ -62,6 +62,16 @@
     
 }
 
+.text-box h3{
+    position: relative;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 35px;
+    padding-bottom: 6.5px;
+    
+    
+}
+
 
 .text-box p{
     position: relative;
@@ -73,6 +83,17 @@
     position: relative;
     bottom: 350px;
     left: 850px;
+    
+    
+    
+}
+
+.text-box-img2{   
+   
+    position: relative;
+    bottom: 385px;
+    left: 850px;
+
     
     
     
