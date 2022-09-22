@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.header{
+   
+    display: flex;
+    background-image: url(banner.jpg);   
+    background-position: center;
+    margin:auto;
+    width: 100%; 
+    height: 125px;
+    padding: 50px;     
+}
+
+
+.navigation{
+     display: flex;
+    padding: 7.8% 20%;
+    justify-content: space-between;
+    align-items: center;   
+}
+
+.nav-img{
+    display: flex;   
+    margin-top: -35px;   
+}
+
+.nav-item{
+    padding: 35px 35px;
+    text-align: right;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family: Arial, 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: larger;   
+}
+
+.text-box{
+    font-family: Arial, 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: larger; 
+    position: relative;
+    text-align: left;
+    height: 900px;
+}
+
+.text-box h1{
+    padding: 35px 50px;
+    font-size: 50px;
+}
+
+.text-box p{
+    padding: 0px 50px;
+}
+
+.text-box-img{   
+   
+    position: relative;
+    bottom: 350px;
+    left: 850px;
+    
+    
+    
+}
+
+footer{
+    
+    background-image: url(banner_footer.jpg);
+    position:relative;
+    bottom: 0px;
+    width: 100%;
+    height: 100px;      
+}
+
+footer h1{
+    position: relative;
+    top: 35px;
+    left: 50px;
+    font-family: Arial, 'Poppins', sans-serif;
+    font-size: 40px;
+}
+
+.footer-logo{
+    position: relative;
+    top: -15px;
+    left: 1250px;
+    height: 50px;
+    width: 250px;
+}
+
+.footer-vimeo{
+    position: relative;
+    top: -15px;
+    left: 1285px;
+    height: 50px;
+    width: 50px;
+}
+
+.footer-facebook{
+    position: relative;
+    top: -15px;
+    left: 1325px;
+    height: 50px;
+    width: 50px;
+}
+
+.footer-instagram{
+    position: relative;
+    top: -15px;
+    left: 1364px;
+    height: 50px;
+    width: 50px;
+}
+
+
