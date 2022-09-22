@@ -88,12 +88,22 @@
   right: 0;
   bottom: 0;
   margin: auto;
+  position: absolute  
   
- 
-  position: absolute
- 
-  
-  
+}
+
+.text-box-merch{
+    display: grid;
+  grid-template-rows: repeat(2, 1fr);
+  grid-template-columns: repeat(2, 1fr);
+  width: 45.5%;
+  height: 625px;
+  top: 0;
+  left: 1;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  position: absolute  
   
 }
 
